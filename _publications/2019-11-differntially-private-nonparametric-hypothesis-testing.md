@@ -3,10 +3,9 @@ title: "Differentially private nonparametric hypothesis testing"
 collection: publications
 permalink: /publication/2019-11-differntially-private-nonparametric-hypothesis-testing
 excerpt: ' '
-date: 2019-11
+date: 2019-11-06
 venue: 'ACM Conference on Computer and Communications Security (CCS)'
 paperurl: 'https://arxiv.org/abs/1903.09364'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
