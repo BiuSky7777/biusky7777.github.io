@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+"Differentially Private Nonparametric Hypothesis Testing," with Simon Couch, Zeki Kazan, Kaiyan Shi, and Andrew Bray. ACM Conference on Computer and Communications Security (CCS), November 2019. [[PDF](https://arxiv.org/abs/1903.09364),[Code](https://github.com/simonpcouch/non-pm-dpht)]
