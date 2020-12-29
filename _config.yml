@@ -11,7 +11,6 @@ title                    : "Sky"
 title_separator          : "-"
 name                     : &name "Kaiyan Shi"
 description              : &description "Ph.D. Student at University of Maryland"
-email                    : &description "kshi12@umd.edu"
 url                      : https://BiuSky7777.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BiuSky7777.github.io"
@@ -88,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "kshi12@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
