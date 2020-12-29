@@ -15,5 +15,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**Differentially Private Nonparametric Hypothesis Testing**
-Simon Couch, Zeki Kazan, Kaiyan Shi, Andrew Bray, Adam Groce. ACM Conference on Computer and Communications Security (CCS), November 2019. [[PDF](https://arxiv.org/abs/1903.09364),[Code](https://github.com/simonpcouch/non-pm-dpht)]
+[**Differentially Private Nonparametric Hypothesis Testing**](https://arxiv.org/abs/1903.09364)\
+Simon Couch, Zeki Kazan, Kaiyan Shi, Andrew Bray, Adam Groce. ACM Conference on Computer and Communications Security (CCS), November 2019. [[Code](https://github.com/simonpcouch/non-pm-dpht)]
