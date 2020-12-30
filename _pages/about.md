@@ -10,9 +10,9 @@ redirect_from:
 \
 Hello.
 
-I am a first-year doctoral student in the Department of Computer Science at the University of Maryland, College Park. My current research interest is on quantum computing, cryptography and their interplay.
+I am a first-year doctoral student in the Department of Computer Science at the University of Maryland, College Park. My current research interest is in quantum computing, cryptography and their interplay.
 
-Prior to Maryland, I graduated in May 2020 with Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. I have done some research in differential privacy and statistics, advised by [Adam Groce](http://people.reed.edu/~agroce/) and [Andrew Bray](https://andrewpbray.github.io/). My thesis is on <em>Area Law for Local Hamiltonians</em>, advised by [Jamie Pommersheim](http://people.reed.edu/~jamie/).
+Prior to Maryland, I graduated in May 2020 with Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. I previously did some research in differential privacy and statistics, advised by [Adam Groce](http://people.reed.edu/~agroce/) and [Andrew Bray](https://andrewpbray.github.io/). My thesis is on <em>Area Law for Local Hamiltonians</em>, advised by [Jamie Pommersheim](http://people.reed.edu/~jamie/).
 
 
 
