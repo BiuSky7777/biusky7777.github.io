@@ -10,9 +10,9 @@ redirect_from:
 \
 Hello.
 
-I am a second-year doctoral student at the Joint Center for Quantum Information and Computer Science ([QuICS](https://quics.umd.edu/people)) at the University of Maryland, College Park. My current research interest is in quantum computing, cryptography and their interplay.
+I am a second-year doctoral student at the Joint Center for Quantum Information and Computer Science ([QuICS](https://quics.umd.edu/people)) at the University of Maryland, College Park. My current research interest is in quantum computing, cryptography and their interplay. I am also interested in quantum optimization and machine learning.
 
-I am also interested in quantum optimization and machine learning, and I previously was a research intern at [Institute for Quantum Computing](https://quantum.baidu.com/) at [Baidu Research](http://research.baidu.com/Index).
+ <!-- and I previously was a research intern at [Institute for Quantum Computing](https://quantum.baidu.com/) at [Baidu Research](http://research.baidu.com/Index). -->
 
 Prior to Maryland, I graduated in May 2020 with Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. I previously did some research in differential privacy and statistics, advised by [Adam Groce](http://people.reed.edu/~agroce/) and [Andrew Bray](https://andrewpbray.github.io/). My thesis is on <em>Area Law for Local Hamiltonians</em>, advised by [Jamie Pommersheim](http://people.reed.edu/~jamie/).
 
