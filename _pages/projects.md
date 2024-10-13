@@ -5,15 +5,35 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Differentially Private SGD with Curriculum Learning**\
-Write-up upon request.
 
-[**Towards Physically-Consistent, Chaotic Spatiotemporal Dynamics with Echo State Networks**](http://ceur-ws.org/Vol-2964/article_199.pdf)\
+[**Differentially Private SGD with Curriculum Learning**]()
+* We incorporated curriculum learning into stochastic gradient descent with differential privacy to better balance data privacy and model performance.
+* We experimented different noise injection schedules (noise curriculum) and re-arranged sample ordering (sample curriculum) when training a deep learning model.
+* Results show promising accuracy improvements with noise curriculum, but little evidence of performance gains from sample curriculum.
+
+[**Differentiable Pulse-Based Variational Quantum Eigensolver**]()
+* We proposed a polynomial parameterization method for pulse-based VQE, reducing parameters from M × Q to n × Q (where M is the number of time segments and Q is the number of qubits), along with an efficient analytic gradient formula that lowers computational cost to O(1) compared to O(M) in finite difference methods, though it applies to a limited set of pulse sequences.
+* Implementations confirm the proposed pulse-based VQE is fast, but we cannot reach the theoretical
+minimum due to pulse sequence ansatz choices, which is limited by our gradient calculation method.
+
+[**Quantum Dynamic Programming**]()[PPT]()
+* We applied the divide-and-conquer dynamic programming approach [ABIKPV18](https://arxiv.org/abs/1807.05209) to NP-hard problems like graph coloring, minimum clique cover, and minimum dominating set, achieving time complexity improvements from O(2.4423^n) classically to O(1.9140^n) quantumly on certain instances.
+* We highlighted that for problems like the dominating set and minimum vertex cover, dynamic programming underperforms compared to direct application of Grover's algorithm on classical brute-force methods, suggesting the need for new approaches to utilize dynamic programming effectively.
+
+[**Towards Physically-Consistent, Chaotic Spatiotemporal Dynamics with Echo State Networks**](http://ceur-ws.org/Vol-2964/article_199.pdf)
 * This study investigates the use of echo state networks (ESNs) for time-series forecasting in chaotic physics.
 * We compare a basic ESN with two physics-informed variants on the Lorenz attractor and then test the ESN on a large-scale atmospheric model and a real-world weather dataset. 
 * Results show that a well-tuned traditional ESN can outperform physics-informed methods. While the ESN accurately predicts the global evolution of atmospheric primitive equations over short periods (~67 hours), it struggles with real-world data.
+* Accepted to AAAI Spring Symposium Series 2021 
 
-[**Investigation of Area Law for Local Hamiltonians**](https://github.com/BiuSky7777/Reed2020-Thesis/blob/master/Paper/My_Final_College_Paper.pdf)\
-* Implemented generic and RRG algorithms to find ground states of local Hamiltonians, including Heisenberg and AKLT models.
-* Verified an area law for von Neumann entanglement entropy in the XXZ model for up to 14 qubits.
-* Confirmed exponential Schmidt coefficient distribution up to 13 qubits and predicted the slope for 14 qubits, with discrepancies within 0.1.
+
+[**Homotopy Group of a Loop Space**]
+* Through *Loop-Suspension Adjunction*, the following relationship for the homotopy group of a loop space $\Omega X$ is established:
+$$ \pi_{k+1}(X) = \pi_k(\Omega X).$$
+This property implies that to determine the $k$-th homotopy group of $\Omega X$, it is sufficient to know the $(k+1)$-th homotopy group of $X$.
+* Additionally, for an $n$-th loop space $\Omega^n X$, the homotopy group would be $\pi_{k+n}(X)$, derived by applying the Loop-Suspension Adjunction $n$ times.
+
+[**Investigation of Area Law for Local Hamiltonians**](https://github.com/BiuSky7777/Reed2020-Thesis/blob/master/Paper/My_Final_College_Paper.pdf)
+* We implemented generic and RRG algorithms to find ground states of local Hamiltonians, including Heisenberg and AKLT models.
+* We verified an area law for von Neumann entanglement entropy in the XXZ model for up to 14 qubits.
+* We confirmed exponential Schmidt coefficient distribution up to 13 qubits and predicted the slope for 14 qubits, with discrepancies within 0.1.
