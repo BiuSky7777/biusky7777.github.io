@@ -14,7 +14,7 @@ June 2023 - Aug 2023\
 Summer Associate, advised by Dr. Omar Amer and Kaushik Chakraborty
 
 May 2022 - Aug 2022\
-**Mathematics and Computer Science, Argonne National Laboratory,** Lemont IL\ 
+**Mathematics and Computer Science, Argonne National Laboratory,** Lemont IL\
 W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profile/jeffrey-m-larson) and [Dr. Ruslan Shaydulin](https://shaydul.in/)
 
 
@@ -24,4 +24,4 @@ Research Intern, advised by [Dr. Xin Wang](https://www.xinwang.info/)
 
 Sep 2016 – May 2020\
 **[Reed Reactor Facility](https://reactor.reed.edu/index.html), Reed College,** Portland OR\
-Licensed Nuclear Reactor Operator, with official Reactor Operator License issued by the Nuclear Reactor Committee
+Licensed Nuclear Reactor Operator, with official Reactor Operator License issued by the [Nuclear Reactor Committee](https://www.nrc.gov/)
