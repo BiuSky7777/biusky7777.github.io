@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-Here are some project write-ups, completed either in collaboration with amazing peers or independently. While the results may not be novel enough for publication, I hope they can still offer a bit of inspiration by:
+Here are some project write-ups, completed either in collaboration with amazing peers. While the results may not be novel enough for publication, I hope they can still offer a bit of inspiration by:
 * Highlighting directions that didn't work out.
+* Verifying and confirming established results numerically.
 * Demonstrating how elegant theorems/algorithms can be casually applied to similar problems and senarios.
-* Providing detailed and thorough proofs of seemingly trivial or well-known results.
 
 
 [**Differentially Private SGD with Curriculum Learning**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/dp_sgd.pdf)
@@ -22,7 +22,7 @@ Here are some project write-ups, completed either in collaboration with amazing 
 minimum due to pulse sequence ansatz choices, which is limited by our gradient calculation method.
 
 [**Quantum Dynamic Programming**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/quantum_dynamic_programming.pdf)
-* We applied the divide-and-conquer dynamic programming approach [ABIKPV18](https://arxiv.org/abs/1807.05209) to NP-hard problems like graph coloring, minimum clique cover, and minimum dominating set, achieving time complexity improvements from O(2.4423^n) classically to O(1.9140^n) quantumly on certain instances.
+* We applied the divide-and-conquer dynamic programming approach [ABIKPV18](https://arxiv.org/abs/1807.05209) to NP-hard problems like graph coloring, minimum clique cover, and minimum dominating set, achieving time complexity improvements from $O(2.4423^n)$ classically to $O(1.9140^n)$ quantumly on certain instances.
 * We highlighted that for problems like the dominating set and minimum vertex cover, dynamic programming underperforms compared to direct application of Grover's algorithm on classical brute-force methods, suggesting the need for new approaches to utilize dynamic programming effectively.
 
 [**Towards Physically-Consistent, Chaotic Spatiotemporal Dynamics with Echo State Networks**](http://ceur-ws.org/Vol-2964/article_199.pdf)
@@ -30,12 +30,6 @@ minimum due to pulse sequence ansatz choices, which is limited by our gradient c
 * We compare a basic ESN with two physics-informed variants on the Lorenz attractor and then test the ESN on a large-scale atmospheric model and a real-world weather dataset. 
 * Results show that a well-tuned traditional ESN can outperform physics-informed methods. While the ESN accurately predicts the global evolution of atmospheric primitive equations over short periods (~67 hours), it struggles with real-world data.
 * Accepted to AAAI Spring Symposium Series 2021 
-
-[**Homotopy Group of a Loop Space**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/loop_space.pdf)
-* Through *Loop-Suspension Adjunction*, the following relationship for the homotopy group of a loop space $\Omega X$ is established:
-$$ \pi_{k+1}(X) = \pi_k(\Omega X).$$
-This property implies that to determine the $k$-th homotopy group of $\Omega X$, it is sufficient to know the $(k+1)$-th homotopy group of $X$.
-* Additionally, for an $n$-th loop space $\Omega^n X$, the homotopy group would be $\pi_{k+n}(X)$, derived by applying the Loop-Suspension Adjunction $n$ times.
 
 [**Investigation of Area Law for Local Hamiltonians**](https://github.com/BiuSky7777/Reed2020-Thesis/blob/master/Paper/My_Final_College_Paper.pdf)
 * We implemented generic and RRG algorithms to find ground states of local Hamiltonians, including Heisenberg and AKLT models.
