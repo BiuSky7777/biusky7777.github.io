@@ -5,6 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 
+Here are some project write-ups, completed either in collaboration with amazing peers or independently. While the results may not be novel enough for publication, I hope they can still offer a bit of inspiration by:
+* Highlighting directions that didn't work out.
+* Demonstrating how elegant theorems/algorithms can be casually applied to similar problems and senarios.
+* Providing detailed and thorough proofs of seemingly trivial or well-known results.
+
 
 [**Differentially Private SGD with Curriculum Learning**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/dp_sgd.pdf)
 * We incorporated curriculum learning into stochastic gradient descent with differential privacy to better balance data privacy and model performance.
@@ -25,7 +30,6 @@ minimum due to pulse sequence ansatz choices, which is limited by our gradient c
 * We compare a basic ESN with two physics-informed variants on the Lorenz attractor and then test the ESN on a large-scale atmospheric model and a real-world weather dataset. 
 * Results show that a well-tuned traditional ESN can outperform physics-informed methods. While the ESN accurately predicts the global evolution of atmospheric primitive equations over short periods (~67 hours), it struggles with real-world data.
 * Accepted to AAAI Spring Symposium Series 2021 
-
 
 [**Homotopy Group of a Loop Space**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/loop_space.pdf)
 * Through *Loop-Suspension Adjunction*, the following relationship for the homotopy group of a loop space $\Omega X$ is established:

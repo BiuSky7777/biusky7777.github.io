@@ -15,10 +15,10 @@ Summer Associate, advised by Dr. Omar Amer and Kaushik Chakraborty
 
 <code style="color : Grey">May 2022 - Aug 2022</code>\
 **Mathematics and Computer Science, Argonne National Laboratory,** Lemont IL\
-W. J. Cody Associate, advised by[Dr. Jeffrey Larson](https://www.anl.gov/profile/jeffrey-m-larson) and [Dr. Ruslan Shaydulin](https://shaydul.in/)
+W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profile/jeffrey-m-larson) and [Dr. Ruslan Shaydulin](https://shaydul.in/)
 
 <code style="color : Grey">Apr 2021 - July 2021</code>\
-**[Institution for Quantum Computing, Baidu Research](http://research.baidu.com/Index),** Beijing, China\
+**Institution for Quantum Computing, [Baidu Research](http://research.baidu.com/Index),** Beijing, China\
 Research Intern, advised by [Dr. Xin Wang](https://www.xinwang.info/)
 
 <code style="color : Grey">Dec 2017 - May 2020</code>\
