@@ -24,5 +24,4 @@ Research Intern, advised by [Dr. Xin Wang](https://www.xinwang.info/)
 
 Sep 2016 – May 2020\
 **[Reed Reactor Facility](https://reactor.reed.edu/index.html), Reed College,** Portland OR\
-Licensed Nuclear Reactor Operator
-* Obtained a Reactor Operator License issued by the Nuclear Reactor Committee
+Licensed Nuclear Reactor Operator, with official Reactor Operator License issued by the Nuclear Reactor Committee
