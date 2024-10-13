@@ -5,7 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-Here are some notes, completed independently with the help of various online resources. I hope they can make life a bit easier for others like me by:
+Here are some notes I’ve completed independently, drawing on various online resources. I hope they can make life a bit easier for others by:
 * Offering detailed and thorough proofs of seemingly trivial or well-known results.
 
 ***

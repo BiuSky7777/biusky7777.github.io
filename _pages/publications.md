@@ -30,4 +30,4 @@ Kazan, Z., **Shi, K.,** Groce, A., & Bray, A. P. (2023, July). The test of tests
 **Shi, K.,** Herrman, R., Shaydulin, R., Chakrabarti, S., Pistoia, M., & Larson, J. (2022, December). Multiangle QAOA Does Not Always Need All Its Angles. In 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC) (pp. 414-419). IEEE.
 
 [**Differentially Private Nonparametric Hypothesis Testing**](https://arxiv.org/abs/1903.09364)\
-Simon Couch, Zeki Kazan, **Kaiyan Shi,** Andrew Bray, Adam Groce. ACM Conference on Computer and Communications Security (CCS), November 2019. [[Code](https://github.com/simonpcouch/non-pm-dpht)]
+Couch, S., Kazan, Z., **Shi, K.,** Bray, A., & Groce, A. (2019, November). Differentially private nonparametric hypothesis testing. In Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (pp. 737-751). [[Code](https://github.com/simonpcouch/non-pm-dpht)]

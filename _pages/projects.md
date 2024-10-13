@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-Here are some project write-ups, completed either in collaboration with amazing peers. While the results may not be novel enough for publication, I hope they can still offer a bit of inspiration by:
-* Highlighting directions that didn't work out.
-* Verifying and confirming established results numerically.
-* Demonstrating how elegant theorems/algorithms can be casually applied to similar problems and senarios.
+Here are some project write-ups, completed in collaboration with amazing peers. While the results may not have been novel enough for publication, I hope they can still offer valuable insights by:
+* Highlighting directions that didn't work out, and identifying key challenges.
+* Numerically verifying and confirming established results.
+* Demonstrating the application of elegant theorems and algorithms to similar problems and scenarios.
 
 ***
 
