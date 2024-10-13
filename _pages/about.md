@@ -14,10 +14,6 @@ I am a fifth-year doctoral student at the Joint Center for Quantum Information a
 
 My research focuses on the intersection of quantum computing and cryptography, with additional interests in differential privacy and quantum optimization.
 
-<!-- I previously interned at JPMorganChase during
-
-I previously was a research intern at Institute for Quantum Computing at [Baidu Research](http://research.baidu.com/Index). -->
-
 Prior to Maryland, I graduated with a Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. During my time there, I conducted research in differential privacy and statistics under the guidance of [Adam Groce](http://people.reed.edu/~agroce/) and [Andrew Bray](https://andrewpbray.github.io/). My thesis, titled *Area Law for Local Hamiltonians*, was supervised by [Jamie Pommersheim](http://people.reed.edu/~jamie/).
 
 
