@@ -11,7 +11,7 @@ author_profile: true
 * We experimented different noise injection schedules (noise curriculum) and re-arranged sample ordering (sample curriculum) when training a deep learning model.
 * Results show promising accuracy improvements with noise curriculum, but little evidence of performance gains from sample curriculum.
 
-[**Differentiable Pulse-Based Variational Quantum Eigensolver**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/pb_vqe.pdf) [PPT](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/quantum_diff_pre.pdf)
+[**Differentiable Pulse-Based Variational Quantum Eigensolver**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/pb_vqe.pdf) [\[PPT\]](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/quantum_diff_pre.pdf)
 * We proposed a polynomial parameterization method for pulse-based VQE, reducing parameters from M × Q to n × Q (where M is the number of time segments and Q is the number of qubits), along with an efficient analytic gradient formula that lowers computational cost to O(1) compared to O(M) in finite difference methods, though it applies to a limited set of pulse sequences.
 * Implementations confirm the proposed pulse-based VQE is fast, but we cannot reach the theoretical
 minimum due to pulse sequence ansatz choices, which is limited by our gradient calculation method.
