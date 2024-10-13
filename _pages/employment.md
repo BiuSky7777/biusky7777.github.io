@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 June 2024 - Aug 2024\
-**Global Technology Applied Research, JPMorganChase,** New York City NY\
-Summer Associate, advised by Dr. Omar Amer and Kaushik Chakraborty
+**JPMorganChase,** New York City NY\
+*Summer Associate, Global Technology Applied Research*\
+Mentors: Dr. Omar Amer and Kaushik Chakraborty
 
 June 2023 - Aug 2023\
-**Global Technology Applied Research, JPMorganChase,** New York City NY\
-Summer Associate, advised by Dr. Omar Amer and Kaushik Chakraborty
+**JPMorganChase,** New York City NY\
+*Summer Associate, Global Technology Applied Research*\
+Mentors: Dr. Omar Amer and Kaushik Chakraborty
 
 May 2022 - Aug 2022\
 **Mathematics and Computer Science, Argonne National Laboratory,** Lemont IL\
@@ -24,4 +26,4 @@ Research Intern, advised by [Dr. Xin Wang](https://www.xinwang.info/)
 
 Sep 2016 – May 2020\
 **[Reed Reactor Facility](https://reactor.reed.edu/index.html), Reed College,** Portland OR\
-Licensed Nuclear Reactor Operator, with official Reactor Operator License issued by the [Nuclear Reactor Committee](https://www.nrc.gov/)
+Licensed Nuclear Reactor Operator, holding an official Reactor Operator License issued by [The U.S. Nuclear Regulatory Commission](https://www.nrc.gov/)
