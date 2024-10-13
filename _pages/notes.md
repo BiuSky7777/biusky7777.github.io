@@ -8,6 +8,7 @@ author_profile: true
 Here are some notes, completed independently with the help of various online resources. I hope they can make life a bit easier for others like me by:
 * Offering detailed and thorough proofs of seemingly trivial or well-known results.
 
+***
 
 [**Homotopy Group of a Loop Space**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/loop_space.pdf)
 * Through *Loop-Suspension Adjunction*, the following relationship for the homotopy group of a loop space $\Omega X$ is established:
