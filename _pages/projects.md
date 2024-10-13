@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 
-[**Differentially Private SGD with Curriculum Learning**]()
+[**Differentially Private SGD with Curriculum Learning**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/dp_sgd.pdf)
 * We incorporated curriculum learning into stochastic gradient descent with differential privacy to better balance data privacy and model performance.
 * We experimented different noise injection schedules (noise curriculum) and re-arranged sample ordering (sample curriculum) when training a deep learning model.
 * Results show promising accuracy improvements with noise curriculum, but little evidence of performance gains from sample curriculum.
 
-[**Differentiable Pulse-Based Variational Quantum Eigensolver**]()
+[**Differentiable Pulse-Based Variational Quantum Eigensolver**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/pb_vqe.pdf) [PPT](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/quantum_diff_pre.pdf)
 * We proposed a polynomial parameterization method for pulse-based VQE, reducing parameters from M × Q to n × Q (where M is the number of time segments and Q is the number of qubits), along with an efficient analytic gradient formula that lowers computational cost to O(1) compared to O(M) in finite difference methods, though it applies to a limited set of pulse sequences.
 * Implementations confirm the proposed pulse-based VQE is fast, but we cannot reach the theoretical
 minimum due to pulse sequence ansatz choices, which is limited by our gradient calculation method.
 
-[**Quantum Dynamic Programming**]()[PPT]()
+[**Quantum Dynamic Programming**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/quantum_dynamic_programming.pdf)
 * We applied the divide-and-conquer dynamic programming approach [ABIKPV18](https://arxiv.org/abs/1807.05209) to NP-hard problems like graph coloring, minimum clique cover, and minimum dominating set, achieving time complexity improvements from O(2.4423^n) classically to O(1.9140^n) quantumly on certain instances.
 * We highlighted that for problems like the dominating set and minimum vertex cover, dynamic programming underperforms compared to direct application of Grover's algorithm on classical brute-force methods, suggesting the need for new approaches to utilize dynamic programming effectively.
 
@@ -27,7 +27,7 @@ minimum due to pulse sequence ansatz choices, which is limited by our gradient c
 * Accepted to AAAI Spring Symposium Series 2021 
 
 
-[**Homotopy Group of a Loop Space**]
+[**Homotopy Group of a Loop Space**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/loop_space.pdf)
 * Through *Loop-Suspension Adjunction*, the following relationship for the homotopy group of a loop space $\Omega X$ is established:
 $$ \pi_{k+1}(X) = \pi_k(\Omega X).$$
 This property implies that to determine the $k$-th homotopy group of $\Omega X$, it is sufficient to know the $(k+1)$-th homotopy group of $X$.
