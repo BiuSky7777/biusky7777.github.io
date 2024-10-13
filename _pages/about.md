@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kaiyan Shi (石开研)"
+title: "Kaiyan Shi"
 excerpt: "About me"
 author_profile: true
 redirect_from:

@@ -3,6 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Employment"
+    url: /employment/
+
+
   - title: "Projects"
     url: /projects/
 
