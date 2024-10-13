@@ -23,7 +23,7 @@ Research Intern, advised by [Prof. Xin Wang](https://www.xinwang.info/)
 
 <code style="color : Grey">Dec 2017 - May 2020</code>\
 **[Reed Reactor Facility](https://reactor.reed.edu/index.html), Reed College** Portland OR\
-Licensed Nuclear Reactor Operator, certified by the [The U.S. Nuclear Regulatory Commission](https://www.nrc.gov/)
+Licensed Nuclear Reactor Operator, certified by [The U.S. Nuclear Regulatory Commission](https://www.nrc.gov/)
 
 <code style="color : Grey">Sep 2016 - Dec 2017</code>\
 **[Reed Reactor Facility](https://reactor.reed.edu/index.html), Reed College** Portland OR\
