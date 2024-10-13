@@ -10,6 +10,7 @@ Here are some project write-ups, completed either in collaboration with amazing 
 * Verifying and confirming established results numerically.
 * Demonstrating how elegant theorems/algorithms can be casually applied to similar problems and senarios.
 
+***
 
 [**Differentially Private SGD with Curriculum Learning**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/dp_sgd.pdf)
 * We incorporated curriculum learning into stochastic gradient descent with differential privacy to better balance data privacy and model performance.
@@ -17,7 +18,7 @@ Here are some project write-ups, completed either in collaboration with amazing 
 * Results show promising accuracy improvements with noise curriculum, but little evidence of performance gains from sample curriculum.
 
 [**Differentiable Pulse-Based Variational Quantum Eigensolver**](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/pb_vqe.pdf) [(PPT)](https://github.com/BiuSky7777/biusky7777.github.io/blob/master/_projects/quantum_diff_pre.pdf)
-* We proposed a polynomial parameterization method for pulse-based VQE, reducing parameters from M × Q to n × Q (where M is the number of time segments and Q is the number of qubits), along with an efficient analytic gradient formula that lowers computational cost to O(1) compared to O(M) in finite difference methods, though it applies to a limited set of pulse sequences.
+* We proposed a polynomial parameterization method for pulse-based VQE, reducing parameters from $M \times Q$ to $n \times Q$ (where $M$ is the number of time segments and $Q$ is the number of qubits), along with an efficient analytic gradient formula that lowers computational cost to $O(1)$ compared to $O(M)$ in finite difference methods, though it applies to a limited set of pulse sequences.
 * Implementations confirm the proposed pulse-based VQE is fast, but we cannot reach the theoretical
 minimum due to pulse sequence ansatz choices, which is limited by our gradient calculation method.
 
@@ -33,5 +34,5 @@ minimum due to pulse sequence ansatz choices, which is limited by our gradient c
 
 [**Investigation of Area Law for Local Hamiltonians**](https://github.com/BiuSky7777/Reed2020-Thesis/blob/master/Paper/My_Final_College_Paper.pdf)
 * We implemented generic and RRG algorithms to find ground states of local Hamiltonians, including Heisenberg and AKLT models.
-* We verified an area law for von Neumann entanglement entropy in the XXZ model for up to 14 qubits.
-* We confirmed exponential Schmidt coefficient distribution up to 13 qubits and predicted the slope for 14 qubits, with discrepancies within 0.1.
+* We verified an area law for von Neumann entanglement entropy in the XXZ model for up to $14$ qubits.
+* We confirmed exponential Schmidt coefficient distribution up to 13 qubits and predicted the slope for $14$ qubits, with discrepancies within $0.1$.
