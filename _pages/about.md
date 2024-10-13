@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Kaiyan Shi (石开研)"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,13 +10,15 @@ redirect_from:
 \
 Hello.
 
-I am a second-year doctoral student at the Joint Center for Quantum Information and Computer Science ([QuICS](https://quics.umd.edu/people)) at the University of Maryland, College Park. My current research interest is in quantum computing, cryptography and their interplay. I am also interested in quantum optimization and machine learning.
+* I am a fifth-year doctoral student at the Joint Center for Quantum Information and Computer Science ([QuICS](https://quics.umd.edu/people)) at the University of Maryland, College Park, advised by [Gorjan Alagic](https://www.alagic.org/).
 
- <!-- and I previously was a research intern at [Institute for Quantum Computing](https://quantum.baidu.com/) at [Baidu Research](http://research.baidu.com/Index). -->
+* My research focuses on the intersection of quantum computing and cryptography, with additional interests in differential privacy and quantum optimization.
 
-Prior to Maryland, I graduated in May 2020 with Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. I previously did some research in differential privacy and statistics, advised by [Adam Groce](http://people.reed.edu/~agroce/) and [Andrew Bray](https://andrewpbray.github.io/). My thesis is on <em>Area Law for Local Hamiltonians</em>, advised by [Jamie Pommersheim](http://people.reed.edu/~jamie/).
+<!-- I previously interned at JPMorganChase during
 
+I previously was a research intern at Institute for Quantum Computing at [Baidu Research](http://research.baidu.com/Index). -->
 
+* Prior to Maryland, I graduated in May 2020 with a Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. During my time there, I conducted research in differential privacy and statistics under the guidance of [Adam Groce](http://people.reed.edu/~agroce/) and [Andrew Bray](https://andrewpbray.github.io/). My thesis, titled *Area Law for Local Hamiltonians*, was supervised by [Jamie Pommersheim](http://people.reed.edu/~jamie/).
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
