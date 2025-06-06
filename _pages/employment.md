@@ -22,11 +22,11 @@ W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profil
 Research Intern, advised by [Prof. Xin Wang](https://www.xinwang.info/)
 
 <code style="color : Grey">Dec 2017 - May 2020</code>\
-**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College** Portland OR\
+**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland OR\
 Licensed Nuclear Reactor Operator, certified by the [U.S. Nuclear Regulatory Commission](https://www.nrc.gov/)
 
 <code style="color : Grey">Sep 2016 - Dec 2017</code>\
-**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College** Portland OR\
+**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland OR\
 Nuclear Reactor Trainee
 
 <!-- <code style="color : Grey">June 2023 - Aug 2023</code>\
