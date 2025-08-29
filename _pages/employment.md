@@ -10,31 +10,31 @@ author_profile: true
 Summer Associate, advised by Dr. ShinnYih Huang -->
 
 
-<code style="color: Grey">Jun 2025 – Aug 2025</code>\
+<code style="color: Grey">June 2025 – August 2025</code>\
 **Equity Quant Team, Bank of America,** New York, NY\
 Summer Associate, advised by Dr. ShinnYih Huang
 
-<code style="color : Grey">June 2024 - Aug 2024</code>\
+<code style="color : Grey">June 2024 - August 2024</code>\
 **Global Technology Applied Research, JPMorganChase,** New York, NY\
 Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
 
-<code style="color : Grey">June 2023 - Aug 2023</code>\
+<code style="color : Grey">June 2023 - August 2023</code>\
 **Global Technology Applied Research, JPMorganChase,** New York, NY\
 Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
 
-<code style="color : Grey">May 2022 - Aug 2022</code>\
+<code style="color : Grey">May 2022 - August 2022</code>\
 **Mathematics and Computer Science, Argonne National Laboratory,** Lemont, IL\
 W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profile/jeffrey-m-larson) and [Dr. Ruslan Shaydulin](https://shaydul.in/)
 
-<code style="color : Grey">Apr 2021 - July 2021</code>\
+<code style="color : Grey">April 2021 - July 2021</code>\
 **Institution for Quantum Computing, [Baidu Research](http://research.baidu.com/Index),** Beijing, China\
 Research Intern, advised by [Prof. Xin Wang](https://www.xinwang.info/)
 
-<code style="color : Grey">Dec 2017 - May 2020</code>\
+<code style="color : Grey">December 2017 - May 2020</code>\
 **[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland, OR\
 Licensed Nuclear Reactor Operator, certified by the [U.S. Nuclear Regulatory Commission](https://www.nrc.gov/)
 
-<code style="color : Grey">Sep 2016 - Dec 2017</code>\
+<code style="color : Grey">September 2016 - December 2017</code>\
 **[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland, OR\
 Nuclear Reactor Trainee
 
