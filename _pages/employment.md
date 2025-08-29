@@ -9,20 +9,20 @@ author_profile: true
 **Equity Quant Team, Bank of America,** New York City NY\
 Summer Associate, advised by Dr. ShinnYih Huang -->
 
-June 2024 – August 2024\
-**Equity Quant Team, Bank of America,** New York, NY\  
+<span style="color:grey">Jun 2024 – Aug 2024</span>  
+**Equity Quant Team, Bank of America,** New York, NY
 Summer Associate, advised by Dr. ShinnYih Huang
 
 <code style="color : Grey">June 2024 - Aug 2024</code>\
-**Global Technology Applied Research, JPMorganChase,** New York City NY\
+**Global Technology Applied Research, JPMorganChase,** New York, NY\
 Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
 
 <code style="color : Grey">June 2023 - Aug 2023</code>\
-**Global Technology Applied Research, JPMorganChase,** New York City NY\
+**Global Technology Applied Research, JPMorganChase,** New York, NY\
 Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
 
 <code style="color : Grey">May 2022 - Aug 2022</code>\
-**Mathematics and Computer Science, Argonne National Laboratory,** Lemont IL\
+**Mathematics and Computer Science, Argonne National Laboratory,** Lemont, IL\
 W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profile/jeffrey-m-larson) and [Dr. Ruslan Shaydulin](https://shaydul.in/)
 
 <code style="color : Grey">Apr 2021 - July 2021</code>\
@@ -30,11 +30,11 @@ W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profil
 Research Intern, advised by [Prof. Xin Wang](https://www.xinwang.info/)
 
 <code style="color : Grey">Dec 2017 - May 2020</code>\
-**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland OR\
+**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland, OR\
 Licensed Nuclear Reactor Operator, certified by the [U.S. Nuclear Regulatory Commission](https://www.nrc.gov/)
 
 <code style="color : Grey">Sep 2016 - Dec 2017</code>\
-**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland OR\
+**[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland, OR\
 Nuclear Reactor Trainee
 
 <!-- <code style="color : Grey">June 2023 - Aug 2023</code>\
