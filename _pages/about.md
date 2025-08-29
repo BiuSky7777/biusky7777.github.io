@@ -10,7 +10,9 @@ redirect_from:
 \
 Hello.
 
-I am a doctoral student in Computer Science at the [Joint Center for Quantum Information and Computer Science (QuICS)](https://quics.umd.edu/people) at the University of Maryland, College Park, where I am advised by [Prof. Gorjan Alagic](https://www.alagic.org/). My research lies at the intersection of quantum computing and cryptography, with additional interests in differential privacy and quantum optimization.
+I am a doctoral student in Computer Science at the [Joint Center for Quantum Information and Computer Science (QuICS)](https://quics.umd.edu/people) at the University of Maryland, College Park, where I am advised by [Prof. Gorjan Alagic](https://www.alagic.org/). 
+
+My research lies at the intersection of quantum computing and cryptography, with additional interests in differential privacy and quantum optimization.
 
 Prior to Maryland, I earned a Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. At Reed, I conducted research in differential privacy and statistics under the guidance of [Prof. Adam Groce](http://people.reed.edu/~agroce/) and [Prof. Andrew Bray](https://andrewpbray.github.io/). My undergraduate thesis, *Area Law for Local Hamiltonians*, was supervised by [Prof. Jamie Pommersheim](http://people.reed.edu/~jamie/).
 
