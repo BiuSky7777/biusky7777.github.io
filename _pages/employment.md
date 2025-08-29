@@ -9,8 +9,9 @@ author_profile: true
 **Equity Quant Team, Bank of America,** New York City NY\
 Summer Associate, advised by Dr. ShinnYih Huang -->
 
-<span style="color:grey">Jun 2024 – Aug 2024</span>  
-**Equity Quant Team, Bank of America,** New York, NY
+
+<code style="color: Grey">Jun 2025 – Aug 2025</code>\
+**Equity Quant Team, Bank of America,** New York, NY\
 Summer Associate, advised by Dr. ShinnYih Huang
 
 <code style="color : Grey">June 2024 - Aug 2024</code>\
