@@ -5,6 +5,14 @@ permalink: /employment/
 author_profile: true
 ---
 
+<!-- <code style="color : Grey">June 2024 - Aug 2024</code>\
+**Equity Quant Team, Bank of America,** New York City NY\
+Summer Associate, advised by Dr. ShinnYih Huang -->
+
+June 2024 – August 2024\
+**Equity Quant Team, Bank of America,** New York, NY\  
+Summer Associate, advised by Dr. ShinnYih Huang
+
 <code style="color : Grey">June 2024 - Aug 2024</code>\
 **Global Technology Applied Research, JPMorganChase,** New York City NY\
 Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
