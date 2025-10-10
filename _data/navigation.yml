@@ -7,14 +7,8 @@ main:
     url: /employment/
 
 
-  - title: "Projects"
-    url: /projects/
-
   - title: "Notes"
     url: /notes/
-
-  # - title: "CV"
-  #   url: /cv/
 
   - title: "Miscellaneous"
     url: /miscellaneous/
