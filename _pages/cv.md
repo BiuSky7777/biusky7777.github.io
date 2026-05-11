@@ -9,10 +9,12 @@ redirect_from:
 
 
 ## Education
+***
 B.S. in Mathematics and Computer Science, Reed College, 2020\
 Ph.D in Computer Science, Unversity of Maryland, 2026
 
 ## Employment
+***
 <code style="color: Grey">July 2026 – Present </code>\
 **Equity Quant Team, Bank of America,** New York, NY\
 Associate
