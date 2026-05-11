@@ -17,17 +17,27 @@ author_profile: true
 
 (\* indicates authors are listed in alphabetical order)
 
-[**On the Quantum Proofs of Knowledge of Relativistic Zero Knowledge Protocols**](https://www.arxiv.org/abs/2409.03635)\
-**Shi, K.,** Chakraborty, K., Kon, W. Y., Amer, O., Pistoia, M., & Lim, C. C. W. On the Quantum Proofs of Knowledge of Relativistic Zero Knowledge Protocols. (Preprint)
+\*[**Post-Quantum Security of Block Cipher Constructions**](https://arxiv.org/abs/2510.08725) (2026)\
+Gorjan Alagic, Chen Bai, Christian Majenz, **Kaiyan Shi**\
+SAC 2026. Contributed talk at TQC 2026.
 
-\*[**On the Two-sided Permutation Inversion Problem**](https://eprint.iacr.org/2023/985)\
-Alagic, G., Bai, C., Poremba, A., & **Shi, K.** (2024, April). On the Two-sided Permutation Inversion Problem. IACR Communications in Cryptology, vol. 1, no. 1
+[**On the Quantum Proofs of Knowledge of Relativistic Zero Knowledge Protocols**](https://www.arxiv.org/abs/2409.03635) (2024)\
+**Kaiyan Shi,** Kaushik Chakraborty, Wen Yu Kon, Omar Amer, Marco Pistoia, Charles Lim\
+Preprint
 
-[**The test of tests: A framework for differentially private hypothesis testing**](https://arxiv.org/abs/2302.04260)\
-Kazan, Z., **Shi, K.,** Groce, A., & Bray, A. P. (2023, July). The test of tests: A framework for differentially private hypothesis testing. In International Conference on Machine Learning (pp. 16131-16151). PMLR.
+\*[**On the Two-sided Permutation Inversion Problem**](https://eprint.iacr.org/2023/985) (2024)\
+Gorjan Alagic, Chen Bai, Alexander Poremba, **Kaiyan Shi**\
+IACR Communications in Cryptology, vol. 1, no. 1, 2024.
 
-[**Multiangle QAOA Does Not Always Need All its Angles**](https://arxiv.org/abs/2209.11839)\
-**Shi, K.,** Herrman, R., Shaydulin, R., Chakrabarti, S., Pistoia, M., & Larson, J. (2022, December). Multiangle QAOA Does Not Always Need All Its Angles. In 2022 IEEE/ACM 7th Symposium on Edge Computing (SEC) (pp. 414-419). IEEE.
+[**The test of tests: A framework for differentially private hypothesis testing**](https://arxiv.org/abs/2302.04260) (2023)\
+Zeki Kazan, **Kaiyan Shi**, Adam Groce, Andrew P Bray\
+ICML 2023
 
-[**Differentially Private Nonparametric Hypothesis Testing**](https://arxiv.org/abs/1903.09364)\
-Couch, S., Kazan, Z., **Shi, K.,** Bray, A., & Groce, A. (2019, November). Differentially private nonparametric hypothesis testing. In Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (pp. 737-751). [[Code](https://github.com/simonpcouch/non-pm-dpht)]
+[**Multiangle QAOA Does Not Always Need All its Angles**](https://arxiv.org/abs/2209.11839) (2022)\
+**Kaiyan Shi,** Rebekah Herrman, Ruslan Shaydulin, Shouvanik Chakrabarti, Marco Pistoia, Jeffrey Larson\
+ACM/IEEE SEC 2022
+
+[**Differentially Private Nonparametric Hypothesis Testing**](https://arxiv.org/abs/1903.09364) (2019) [[Code](https://github.com/simonpcouch/non-pm-dpht)] [[School News](https://www.reed.edu/computer-science/announcements/prof.-adam-groce-and-his-students-present-new-differential-privacy-results-at-ccs-2019.html)]\
+Simon Couch, Zeki Kazan, **Kaiyan Shi**, Andrew Bray, Adam Groce\
+CCS 2019
+

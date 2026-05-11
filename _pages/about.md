@@ -10,9 +10,13 @@ redirect_from:
 \
 Hello.
 
-I am a doctoral student in Computer Science at the University of Maryland, College Park, where I am advised by [Prof. Gorjan Alagic](https://www.alagic.org/). My research focuses on cryptography and complexity theory, broadly within theoretical computer science.
+I am an incoming quantitative strategist on the Equity Quant Team at Bank of America, starting in Summer 2026.
 
-Prior to Maryland, I earned a Bachelor of Arts in the interdisciplinary major of Mathematics and Computer Science from Reed College. At Reed, I conducted research in differential privacy and statistics under the guidance of [Prof. Adam Groce](http://people.reed.edu/~agroce/) and [Prof. Andrew Bray](https://andrewpbray.github.io/). My undergraduate thesis, *Area Law for Local Hamiltonians*, was supervised by [Prof. Jamie Pommersheim](http://people.reed.edu/~jamie/).
+I obtained my Ph.D. in Computer Science from the University of Maryland, College Park, where I was part of the [Joint Center for Quantum Information and Computer Science (QuICS)](https://quics.umd.edu) and advised by [Prof. Gorjan Alagic](https://www.alagic.org/).
+
+My research lies at the intersection of quantum computing and cryptography, with a particular focus on post-quantum cryptography. My thesis is titled *Limitations of Quantum Methods for Breaking Cryptography and Optimization*. I am also interested in differential privacy and quantum optimization.
+
+Before coming to Maryland, I earned a Bachelor of Arts in Mathematics and Computer Science from Reed College. At Reed, I conducted research in differential privacy and statistics with [Prof. Adam Groce](http://people.reed.edu/~agroce/) and [Prof. Andrew Bray](https://andrewpbray.github.io/). My undergraduate thesis, *Area Law for Local Hamiltonians*, was supervised by [Prof. Jamie Pommersheim](http://people.reed.edu/~jamie/).
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
