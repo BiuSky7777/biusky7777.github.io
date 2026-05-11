@@ -23,7 +23,7 @@ SAC 2026. Contributed talk at TQC 2026.
 
 [**On the Quantum Proofs of Knowledge of Relativistic Zero Knowledge Protocols**](https://www.arxiv.org/abs/2409.03635) (2024)\
 **Kaiyan Shi,** Kaushik Chakraborty, Wen Yu Kon, Omar Amer, Marco Pistoia, Charles Lim\
-Preprint
+Manuscript
 
 \*[**On the Two-sided Permutation Inversion Problem**](https://eprint.iacr.org/2023/985) (2024)\
 Gorjan Alagic, Chen Bai, Alexander Poremba, **Kaiyan Shi**\
