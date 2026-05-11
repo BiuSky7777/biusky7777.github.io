@@ -3,9 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Employment"
-    url: /employment/
-
+  - title: "CV"
+    url: /cv/
 
   - title: "Notes"
     url: /notes/
