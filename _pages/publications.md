@@ -29,7 +29,7 @@ Manuscript
 Gorjan Alagic, Chen Bai, Alexander Poremba, **Kaiyan Shi**\
 IACR Communications in Cryptology, vol. 1, no. 1, 2024.
 
-[**The test of tests: A framework for differentially private hypothesis testing**](https://arxiv.org/abs/2302.04260) (2023)\
+[**The Test of Tests: A Framework for Differentially Private Hypothesis Testing**](https://arxiv.org/abs/2302.04260) (2023)\
 Zeki Kazan, **Kaiyan Shi**, Adam Groce, Andrew P Bray\
 ICML 2023
 
