@@ -19,7 +19,7 @@ author_profile: true
 
 \*[**Post-Quantum Security of Block Cipher Constructions**](https://arxiv.org/abs/2510.08725) (2026)\
 Gorjan Alagic, Chen Bai, Christian Majenz, **Kaiyan Shi**\
-SAC 2026. Contributed talk at TQC 2026.
+SAC 2026. Contributed talk at TQC 2026 and QCrypt 2026.
 
 [**On the Quantum Proofs of Knowledge of Relativistic Zero Knowledge Protocols**](https://www.arxiv.org/abs/2409.03635) (2024)\
 **Kaiyan Shi,** Kaushik Chakraborty, Wen Yu Kon, Omar Amer, Marco Pistoia, Charles Lim\
