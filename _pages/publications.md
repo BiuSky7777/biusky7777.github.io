@@ -17,7 +17,11 @@ author_profile: true
 
 (\* indicates authors are listed in alphabetical order)
 
-\*[**Post-Quantum Security of Block Cipher Constructions**](https://arxiv.org/abs/2510.08725) (2026)\
+[**Differentially Private Quantum Sensor Networks**](https://arxiv.org/abs/2607.06521) (2026)\
+Daniel J. Spencer, **Kaiyan Shi**, Emil T. Khabiboulline, Gorjan Alagic, Alexey V. Gorshkov\
+Manuscript
+
+\*[**Post-Quantum Security of Block Cipher Constructions**](https://arxiv.org/abs/2510.08725) (2025)\
 Gorjan Alagic, Chen Bai, Christian Majenz, **Kaiyan Shi**\
 SAC 2026. Contributed talk at TQC 2026 and QCrypt 2026.
 

@@ -10,7 +10,7 @@ redirect_from:
 \
 Hello.
 
-I am an incoming quantitative strategist on the Equity Quant Team at Bank of America, starting in Summer 2026.
+I am a quantitative strategist on the Equity Quant Team at Bank of America, starting from Summer 2026.
 
 I obtained my Ph.D. in Computer Science from the University of Maryland, College Park, where I was part of the [Joint Center for Quantum Information and Computer Science (QuICS)](https://quics.umd.edu) and advised by [Prof. Gorjan Alagic](https://www.alagic.org/).
 
