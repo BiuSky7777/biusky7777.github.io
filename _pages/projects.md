@@ -11,7 +11,7 @@ Here are selected project write-ups, including my thesis work and several projec
 * Demonstrating how elegant theorems and algorithms can be applied to related problems and scenarios.
 
 ***
-[**Limitations of Quantum Methods for Breaking Cryptography and Optimization**]()\
+[**Limitations of Quantum Methods for Breaking Cryptography and Optimization**](https://www.proquest.com/docview/3358484387)\
 <span style="color: green">Doctoral Dissertation</span>
 
 
