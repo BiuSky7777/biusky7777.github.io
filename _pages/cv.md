@@ -25,11 +25,11 @@ Summer Associate, mentored by Dr. ShinnYih Huang
 
 <code style="color: Grey">June 2024 - August 2024</code>\
 **Global Technology Applied Research, JPMorganChase,** New York, NY\
-Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
+Summer Associate, advised by Dr. Omar Amer, Dr. Kaushik Chakraborty and [Dr. Charles Lim](https://cde.nus.edu.sg/ece/staff/charles-lim-ci-wen/)
 
 <code style="color: Grey">June 2023 - August 2023</code>\
 **Global Technology Applied Research, JPMorganChase,** New York, NY\
-Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
+Summer Associate, advised by Dr. Omar Amer, Dr. Kaushik Chakraborty and [Dr. Charles Lim](https://cde.nus.edu.sg/ece/staff/charles-lim-ci-wen/)
 
 <code style="color: Grey">May 2022 - August 2022</code>\
 **Mathematics and Computer Science, Argonne National Laboratory,** Lemont, IL\
