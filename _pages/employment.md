@@ -15,11 +15,11 @@ Summer Associate, mentored by Dr. ShinnYih Huang
 
 <code style="color: Grey">June 2024 - August 2024</code>\
 **Global Technology Applied Research, JPMorganChase,** New York, NY\
-Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
+Summer Associate, advised by Dr. Omar Amer, Dr. Kaushik Chakraborty and [Dr. Charles Lim](https://cde.nus.edu.sg/ece/staff/charles-lim-ci-wen/)
 
 <code style="color: Grey">June 2023 - August 2023</code>\
 **Global Technology Applied Research, JPMorganChase,** New York, NY\
-Summer Associate, advised by Dr. Omar Amer and Dr. Kaushik Chakraborty
+Summer Associate, advised by Dr. Omar Amer, Dr. Kaushik Chakraborty and [Dr. Charles Lim](https://cde.nus.edu.sg/ece/staff/charles-lim-ci-wen/)
 
 <code style="color: Grey">May 2022 - August 2022</code>\
 **Mathematics and Computer Science, Argonne National Laboratory,** Lemont, IL\
@@ -27,7 +27,7 @@ W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profil
 
 <code style="color: Grey">April 2021 - July 2021</code>\
 **Institution for Quantum Computing, [Baidu Research](http://research.baidu.com/Index),** Beijing, China\
-Research Intern, advised by [Prof. Xin Wang](https://www.xinwang.info/)
+Research Intern, advised by [Dr. Xin Wang](https://www.xinwang.info/)
 
 <code style="color: Grey">December 2017 - May 2020</code>\
 **[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland, OR\

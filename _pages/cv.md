@@ -37,7 +37,7 @@ W. J. Cody Associate, advised by [Dr. Jeffrey Larson](https://www.anl.gov/profil
 
 <code style="color: Grey">April 2021 - July 2021</code>\
 **Institution for Quantum Computing, Baidu Research,** Beijing, China\
-Research Intern, advised by [Prof. Xin Wang](https://www.xinwang.info/)
+Research Intern, advised by [Dr. Xin Wang](https://www.xinwang.info/)
 
 <code style="color: Grey">December 2017 - May 2020</code>\
 **[Reed Research Reactor](https://reactor.reed.edu/index.html), Reed College,** Portland, OR\
